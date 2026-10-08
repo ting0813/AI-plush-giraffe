@@ -1,6 +1,6 @@
 # 🎈 AI Baymax Plushie (AI 杯麵絨毛機器人)
 
-![AI Baymax Plushie Concept]([https://dummyimage.com/800x400/e0e0e0/000000.png&text=+[AI+Synthesized+Image+Placeholder]+Baymax+Glowing+Heart](https://github.com/ting0813/AI-plush-giraffe/blob/main/Gemini_Generated_Image_xbjvv3xbjvv3xbjv.jpg?raw=true))
+![]([https://dummyimage.com/800x400/e0e0e0/000000.png&text=+[AI+Synthesized+Image+Placeholder]+Baymax+Glowing+Heart](https://github.com/ting0813/AI-plush-giraffe/blob/main/Gemini_Generated_Image_xbjvv3xbjvv3xbjv.jpg?raw=true))
 > **💡 AI 圖片生成提示詞 (供參考/替換)**: *A photorealistic image of a 50cm soft Baymax plush toy sitting on a cozy living room rug. The plush toy is slightly unzipped at the back, revealing a glowing Raspberry Pi circuit board and soft warm LED lights inside. Cinematic lighting, cozy and healing atmosphere, 8k resolution.*
 
 這是一個開源的軟硬體改造專案 (Modding Project)，旨在將市售的 50cm-80cm 「杯麵 (Baymax)」絨毛娃娃，改造成一台真實的、具備高度同理心與語音對話能力的 AI 伴侶機器人。
